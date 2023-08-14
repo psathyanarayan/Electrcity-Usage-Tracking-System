@@ -1,4 +1,4 @@
-# Electrify
+# Kerala Electricity Tracking System
 
 Electrify is a Django project designed to compute the electricity readings for each household in the state of Kerala. It provides features to track and analyze electricity consumption data, making it easier for users to monitor and manage their energy usage.
 
